@@ -1,0 +1,575 @@
+{
+  "users": {
+    "628565337357@s.whatsapp.net": {
+      "name": "Awy_",
+      "premium": false,
+      "premiumTime": 0,
+      "limit": {
+        "value": 10,
+        "price": 5000
+      },
+      "afk": false,
+      "afkReason": "",
+      "banned": false,
+      "health": 100,
+      "money": 100,
+      "rpg": false,
+      "miaw": true,
+      "akinator": {
+        "active": false,
+        "base": 0,
+        "channel": 0,
+        "session": 0,
+        "signature": 0,
+        "step": 0,
+        "answer": 0,
+        "progress": 0,
+        "infogain": 0,
+        "questionId": 0,
+        "response_challenge": "string"
+      },
+      "rpg_data": {
+        "isMining": false,
+        "isHunting": false,
+        "isFishing": false,
+        "potion": {
+          "value": 10,
+          "price": 1000
+        },
+        "hunting": {
+          "gajah": {
+            "value": 0,
+            "price": 1000
+          },
+          "monyet": {
+            "value": 0,
+            "price": 1000
+          },
+          "ikan": {
+            "value": 0,
+            "price": 1000
+          },
+          "sapi": {
+            "value": 0,
+            "price": 1000
+          },
+          "semut": {
+            "value": 0,
+            "price": 1000
+          },
+          "ayam": {
+            "value": 0,
+            "price": 1000
+          },
+          "keledai": {
+            "value": 0,
+            "price": 1000
+          }
+        },
+        "fishing": {
+          "salmon": {
+            "value": 0,
+            "price": 1000
+          },
+          "sampah": {
+            "value": 0,
+            "price": 1000
+          },
+          "koi": {
+            "value": 0,
+            "price": 1000
+          }
+        },
+        "mining": {
+          "batu": {
+            "value": 0,
+            "price": 1000
+          },
+          "ganja": {
+            "value": 0,
+            "price": 100000
+          },
+          "emerald": {
+            "value": 0,
+            "price": 100000
+          },
+          "emas": {
+            "value": 0,
+            "price": 100000
+          },
+          "tembaga": {
+            "value": 0,
+            "price": 10000
+          }
+        }
+      }
+    },
+    "6282163162742@s.whatsapp.net": {
+      "name": ".",
+      "premium": false,
+      "premiumTime": 0,
+      "limit": {
+        "value": 10,
+        "price": 5000
+      },
+      "afk": false,
+      "afkReason": "",
+      "banned": false,
+      "health": 100,
+      "money": 100,
+      "rpg": false,
+      "miaw": false,
+      "akinator": {
+        "active": false,
+        "base": 0,
+        "channel": 0,
+        "session": 0,
+        "signature": 0,
+        "step": 0,
+        "answer": 0,
+        "progress": 0,
+        "infogain": 0,
+        "questionId": 0,
+        "response_challenge": "string"
+      },
+      "rpg_data": {
+        "isMining": false,
+        "isHunting": false,
+        "isFishing": false,
+        "potion": {
+          "value": 10,
+          "price": 1000
+        },
+        "hunting": {
+          "gajah": {
+            "value": 0,
+            "price": 1000
+          },
+          "monyet": {
+            "value": 0,
+            "price": 1000
+          },
+          "ikan": {
+            "value": 0,
+            "price": 1000
+          },
+          "sapi": {
+            "value": 0,
+            "price": 1000
+          },
+          "semut": {
+            "value": 0,
+            "price": 1000
+          },
+          "ayam": {
+            "value": 0,
+            "price": 1000
+          },
+          "keledai": {
+            "value": 0,
+            "price": 1000
+          }
+        },
+        "fishing": {
+          "salmon": {
+            "value": 0,
+            "price": 1000
+          },
+          "sampah": {
+            "value": 0,
+            "price": 1000
+          },
+          "koi": {
+            "value": 0,
+            "price": 1000
+          }
+        },
+        "mining": {
+          "batu": {
+            "value": 0,
+            "price": 1000
+          },
+          "ganja": {
+            "value": 0,
+            "price": 100000
+          },
+          "emerald": {
+            "value": 0,
+            "price": 100000
+          },
+          "emas": {
+            "value": 0,
+            "price": 100000
+          },
+          "tembaga": {
+            "value": 0,
+            "price": 10000
+          }
+        }
+      }
+    },
+    "6289516446891@s.whatsapp.net": {
+      "name": "Lex.",
+      "premium": false,
+      "premiumTime": 0,
+      "limit": {
+        "value": 10,
+        "price": 5000
+      },
+      "afk": false,
+      "afkReason": "",
+      "banned": false,
+      "health": 100,
+      "money": 100,
+      "rpg": false,
+      "miaw": false,
+      "akinator": {
+        "active": false,
+        "base": 0,
+        "channel": 0,
+        "session": 0,
+        "signature": 0,
+        "step": 0,
+        "answer": 0,
+        "progress": 0,
+        "infogain": 0,
+        "questionId": 0,
+        "response_challenge": "string"
+      },
+      "rpg_data": {
+        "isMining": false,
+        "isHunting": false,
+        "isFishing": false,
+        "potion": {
+          "value": 10,
+          "price": 1000
+        },
+        "hunting": {
+          "gajah": {
+            "value": 0,
+            "price": 1000
+          },
+          "monyet": {
+            "value": 0,
+            "price": 1000
+          },
+          "ikan": {
+            "value": 0,
+            "price": 1000
+          },
+          "sapi": {
+            "value": 0,
+            "price": 1000
+          },
+          "semut": {
+            "value": 0,
+            "price": 1000
+          },
+          "ayam": {
+            "value": 0,
+            "price": 1000
+          },
+          "keledai": {
+            "value": 0,
+            "price": 1000
+          }
+        },
+        "fishing": {
+          "salmon": {
+            "value": 0,
+            "price": 1000
+          },
+          "sampah": {
+            "value": 0,
+            "price": 1000
+          },
+          "koi": {
+            "value": 0,
+            "price": 1000
+          }
+        },
+        "mining": {
+          "batu": {
+            "value": 0,
+            "price": 1000
+          },
+          "ganja": {
+            "value": 0,
+            "price": 100000
+          },
+          "emerald": {
+            "value": 0,
+            "price": 100000
+          },
+          "emas": {
+            "value": 0,
+            "price": 100000
+          },
+          "tembaga": {
+            "value": 0,
+            "price": 10000
+          }
+        }
+      }
+    },
+    "6281260079403@s.whatsapp.net": {
+      "name": "hanza",
+      "premium": false,
+      "premiumTime": 0,
+      "limit": {
+        "value": 10,
+        "price": 5000
+      },
+      "afk": false,
+      "afkReason": "",
+      "banned": false,
+      "health": 100,
+      "money": 100,
+      "rpg": false,
+      "miaw": false,
+      "akinator": {
+        "active": false,
+        "base": 0,
+        "channel": 0,
+        "session": 0,
+        "signature": 0,
+        "step": 0,
+        "answer": 0,
+        "progress": 0,
+        "infogain": 0,
+        "questionId": 0,
+        "response_challenge": "string"
+      },
+      "rpg_data": {
+        "isMining": false,
+        "isHunting": false,
+        "isFishing": false,
+        "potion": {
+          "value": 10,
+          "price": 1000
+        },
+        "hunting": {
+          "gajah": {
+            "value": 0,
+            "price": 1000
+          },
+          "monyet": {
+            "value": 0,
+            "price": 1000
+          },
+          "ikan": {
+            "value": 0,
+            "price": 1000
+          },
+          "sapi": {
+            "value": 0,
+            "price": 1000
+          },
+          "semut": {
+            "value": 0,
+            "price": 1000
+          },
+          "ayam": {
+            "value": 0,
+            "price": 1000
+          },
+          "keledai": {
+            "value": 0,
+            "price": 1000
+          }
+        },
+        "fishing": {
+          "salmon": {
+            "value": 0,
+            "price": 1000
+          },
+          "sampah": {
+            "value": 0,
+            "price": 1000
+          },
+          "koi": {
+            "value": 0,
+            "price": 1000
+          }
+        },
+        "mining": {
+          "batu": {
+            "value": 0,
+            "price": 1000
+          },
+          "ganja": {
+            "value": 0,
+            "price": 100000
+          },
+          "emerald": {
+            "value": 0,
+            "price": 100000
+          },
+          "emas": {
+            "value": 0,
+            "price": 100000
+          },
+          "tembaga": {
+            "value": 0,
+            "price": 10000
+          }
+        }
+      }
+    },
+    "6289531032570@s.whatsapp.net": {
+      "name": "joé",
+      "premium": false,
+      "premiumTime": 0,
+      "limit": {
+        "value": 10,
+        "price": 5000
+      },
+      "afk": false,
+      "afkReason": "",
+      "banned": false,
+      "health": 100,
+      "money": 100,
+      "rpg": false,
+      "miaw": false,
+      "akinator": {
+        "active": false,
+        "base": 0,
+        "channel": 0,
+        "session": 0,
+        "signature": 0,
+        "step": 0,
+        "answer": 0,
+        "progress": 0,
+        "infogain": 0,
+        "questionId": 0,
+        "response_challenge": "string"
+      },
+      "rpg_data": {
+        "isMining": false,
+        "isHunting": false,
+        "isFishing": false,
+        "potion": {
+          "value": 10,
+          "price": 4000
+        },
+        "hunting": {
+          "gajah": {
+            "value": 0,
+            "price": 10000
+          },
+          "monyet": {
+            "value": 0,
+            "price": 4000
+          },
+          "ikan": {
+            "value": 0,
+            "price": 1000
+          },
+          "sapi": {
+            "value": 0,
+            "price": 6000
+          },
+          "semut": {
+            "value": 0,
+            "price": 500
+          },
+          "ayam": {
+            "value": 0,
+            "price": 2000
+          },
+          "keledai": {
+            "value": 0,
+            "price": 4000
+          }
+        },
+        "fishing": {
+          "salmon": {
+            "value": 0,
+            "price": 1000
+          },
+          "sampah": {
+            "value": 0,
+            "price": 100
+          },
+          "koi": {
+            "value": 0,
+            "price": 500
+          }
+        },
+        "mining": {
+          "batu": {
+            "value": 0,
+            "price": 100
+          },
+          "ganja": {
+            "value": 0,
+            "price": 100000
+          },
+          "emerald": {
+            "value": 0,
+            "price": 100000
+          },
+          "emas": {
+            "value": 0,
+            "price": 100000
+          },
+          "tembaga": {
+            "value": 0,
+            "price": 10000
+          }
+        }
+      }
+    }
+  },
+  "chats": {
+    "120363047516201642@g.us": {
+      "welcome": false,
+      "isBanned": false,
+      "antiLink": false,
+      "simi": {
+        "enable": false,
+        "level": 1
+      },
+      "sewa": false,
+      "sewaTime": 0,
+      "sWelcome": "",
+      "sLeft": "",
+      "sDone": "",
+      "sProses": "",
+      "listResponse": {},
+      "miaw": false
+    }
+  },
+  "stats": {},
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "6285751337466@s.whatsapp.net": {
+      "maintenance": false,
+      "self": false,
+      "autoread": false,
+      "rpg": {
+        "enable": true
+      },
+      "openai": true
+    },
+    "62857513374661@s.whatsapp.net": {
+      "maintenance": false,
+      "self": false,
+      "autoread": false,
+      "rpg": {
+        "enable": true
+      },
+      "openai": true
+    },
+    "62857513374668@s.whatsapp.net": {
+      "maintenance": false,
+      "self": false,
+      "autoread": false,
+      "rpg": {
+        "enable": true
+      },
+      "openai": true
+    }
+  }
+}
